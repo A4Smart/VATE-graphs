@@ -1,4 +1,6 @@
 {
+  "place": 42,
+  "directed": false,
   "graph": {
     "nodes": [
       {
