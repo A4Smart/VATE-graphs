@@ -1,7 +1,7 @@
 {
   "place": 42,
-  "directed": false,
   "graph": {
+    "directed": false,
     "nodes": [
       {
         "id": 1,
