@@ -1,0 +1,85 @@
+{
+  "place": 10000,
+  "graph": {
+    "directed": false,
+    "nodes": [
+      {
+        "id": 1,
+        "uri": "www.vateapp.eu/10000_1"
+      },
+      {
+        "id": 2,
+        "uri": "www.vateapp.eu/10000_2"
+      },
+      {
+        "id": 3,
+        "uri": "www.vateapp.eu/10000_3"
+      },
+      {
+        "id": 4,
+        "uri": "www.vateapp.eu/10000_4"
+      },
+	  {
+        "id": 5,
+        "uri": "www.vateapp.eu/10000_5"
+      },
+      {
+        "id": 8,
+        "uri": "www.vateapp.eu/10000_8"
+      },
+      {
+        "id": 15,
+        "uri": "www.vateapp.eu/10000_15"
+      },
+      {
+        "id": 28,
+        "uri": "www.vateapp.eu/10000_28"
+      }
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 100,
+        "dir": 0
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 100,
+        "dir": 0
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 100,
+        "dir": 0
+      },
+	  
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 100,
+        "dir": 0
+      },
+      {
+        "from": 5,
+        "to": 8,
+        "weight": 100,
+        "dir": 0
+      },
+      {
+        "from": 8,
+        "to": 15,
+        "weight": 100,
+        "dir": 0
+      },
+      {
+        "from": 15,
+        "to": 28,
+        "weight": 100,
+        "dir": 0
+      }
+    ]
+  }
+}
