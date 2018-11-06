@@ -5,19 +5,19 @@
     "nodes": [
       {
         "id": 1,
-        "uri": "www.vateapp.eu/10000_1"
+        "uri": "https://vateapp.eu/10000_1"
       },
       {
         "id": 2,
-        "uri": "www.vateapp.eu/10000_2"
+        "uri": "https://vateapp.eu/10000_2"
       },
       {
         "id": 3,
-        "uri": "www.vateapp.eu/10000_3"
+        "uri": "https://vateapp.eu/10000_3"
       },
       {
         "id": 4,
-        "uri": "www.vateapp.eu/10000_4"
+        "uri": "https://vateapp.eu/10000_4"
       }
     ],
     "edges": [
